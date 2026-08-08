@@ -1,6 +1,5 @@
 # Quickshot
 A tabletop one shot generator
-[Demo](https://tabletop-one-shot.vercel.app/)
 
 ## Prompt Template Engineering
 Prompt engineering is the process of designing prompts that can be used to generate specific types of text from a language model. In the context of this project, prompt engineering is used to generate one-shot tabletop roleplaying game (TTRPG) adventures
